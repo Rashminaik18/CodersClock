@@ -5,4 +5,5 @@ A GUI based java project that works similar to Pomodoro Timers, but its explicit
 <li>GUI based inteface</li>
 <li>Logic-focused timer cycles to enhance problem-solving</li>
 <li>Encourages short breaks to avoid burnout</li>
+<li>Also contains voice notifications to notify while switching between timers</li>
 </ul>
